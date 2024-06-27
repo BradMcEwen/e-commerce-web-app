@@ -1,0 +1,32 @@
+/* Commenting Out properties we no longer need because of Bootstrap */
+/* NAVBAR STYLES */
+
+.navbar {
+    /* background-color: grey; */
+    width: 100%;
+    /* display: flex;  */
+    /* justify-content: space-around; */
+    /* align-items: center;  */
+    position: fixed;
+    top: 0;
+}
+
+/* .navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+
+ .nav-links {
+    text-decoration: none;
+    color: white; 
+} 
+    
+*/
+
+
+
+.nav-links:hover {
+    color: greenyellow;
+}

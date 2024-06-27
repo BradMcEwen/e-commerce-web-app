@@ -1,0 +1,10 @@
+/* resetting the UI in ANY browser  */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; 
+  /* box-sizing: inherit essentially sets how sizing is calculated for the REST of the app. so 100% inherits 100% from parent container */
+  /* basically saying make sure things are contained within their parent container in the WHOLE app */
+}
+
